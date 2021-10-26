@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👨‍💻 Programming Languages
+
+![](https://shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
+![](https://shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+
 
 
 ### 📊 Stats
