@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 January, 2022 - 27 January, 2022
+Week: 22 January, 2022 - 28 January, 2022
 
 
 ```
