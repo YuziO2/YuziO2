@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 - ✒️My [blog](http://blog.yuzi0201.top/) recorded some technical notes and daily life.
 
 ### 👨‍💻 Programming Languages
-
+**Learning**
 ![](https://shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
 ![](https://shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![](https://shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
+![](https://shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
 
 
 
