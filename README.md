@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👨‍🎓An ungraduated student in GZHU<img src="https://mgmt.carsi.edu.cn/member_files/gzhu.edu.cn/gzhu.edu.cn-logo.png" width="3%">.
-- 📚Prepare for postgraduate entrance examination. The goal is Southwest Jiaotong University or Sichuan University.
+- 📚Prepare for postgraduate entrance examination. The goal is Southwest Jiaotong University or Guangzhou University.
 - ✒️My [blog](http://blog.yuzi0201.top/) recorded some technical notes and daily life.
 
 ### 👨‍💻 Programming Languages
