@@ -22,12 +22,16 @@ Here are some ideas to get you started:
 **Learning**
 
 ![](https://shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
+![](https://shields.io/badge/-TypeScript-1E61FC?logo=typescript&logoColor=white&style=flat)
+![](https://shields.io/badge/-ReactJS-00CDFF?logo=react&logoColor=white&style=flat)
+![](https://shields.io/badge/-VueJS-19E262?style=flat&logo=Vue.js&logoColor=white)
 ![](https://shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![](https://shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
 **Known**
 
 ![](https://shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
-![](https://shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![](https://shields.io/badge/-Java-E29F19?logo=java&logoColor=white&style=flat)
 ![](https://shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
 
 
