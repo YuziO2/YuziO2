@@ -25,3 +25,4 @@ jobs:
           # COMMIT_MESSAGE: # optional, default is Updated the Graph with new Metrics
           # Add the progress blocks of your choice
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional, default is ░▒▓█
+          SHOW_TOTAL: true
