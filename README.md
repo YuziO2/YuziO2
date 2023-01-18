@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 
 ### 📊 Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Yuzi0201&count_private=true&show_icons=true&include_all_commits=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Yuzi0201&exclude_repo=Yuzi0201.github.io&langs_count=8)
+![](https://github-readme-stats.vercel.app/api?username=Yuzi002&count_private=true&show_icons=true&include_all_commits=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Yuzi002&exclude_repo=Yuzi002.github.io&langs_count=8)
 
 ### 🚟 Weekly development breakdown
 
