@@ -15,16 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👨‍🎓An ungraduated student in GZHU<img src="https://mgmt.carsi.edu.cn/member_files/gzhu.edu.cn/gzhu.edu.cn-logo.png" width="3%">.
-- 📚Prepare for postgraduate entrance examination. The goal is Southwest Jiaotong University or Guangzhou University.
+<!-- - 📚Prepare for postgraduate entrance examination. The goal is Southwest Jiaotong University or Guangzhou University. -->
+- 👨‍💻Working at Mobvista as Front-end Development Intern
 - ✒️My [blog](http://blog.yuzi0201.top/) recorded some technical notes and daily life.
 
 ### 👨‍💻 Programming Languages
-**Learning**
+**Using**
 
 ![](https://shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
 ![](https://shields.io/badge/-TypeScript-1E61FC?logo=typescript&logoColor=white&style=flat)
-![](https://shields.io/badge/-ReactJS-00CDFF?logo=react&logoColor=white&style=flat)
 ![](https://shields.io/badge/-VueJS-19E262?style=flat&logo=Vue.js&logoColor=white)
+
+**Learning**
+
+
+![](https://shields.io/badge/-ReactJS-00CDFF?logo=react&logoColor=white&style=flat)
+![](https://shields.io/badge/Kotlin-FC8609?style=flat&logo=kotlin)
 ![](https://shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![](https://shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
