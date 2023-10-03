@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ![](https://shields.io/badge/-NextJS-000000?style=flat&logo=Next.js&logoColor=white)
 ![](https://shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![](https://shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![](https://shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 
 **Used to Know**
 
