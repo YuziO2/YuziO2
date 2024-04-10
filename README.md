@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 👨‍🎓An ungraduated student in GZHU<img src="https://mgmt.carsi.edu.cn/member_files/gzhu.edu.cn/gzhu.edu.cn-logo.png" width="3%">.
 <!-- - 📚Prepare for postgraduate entrance examination. The goal is Southwest Jiaotong University or Guangzhou University. -->
-- 👨‍💻Working at Mobvista as Front-end Development Intern
+- 👨‍💻Working at Tuhu as Front-end Development Intern
 - ✒️My [Space & Blog](https://yuzi.dev/) recorded some technical notes and daily life.
 
 ### 👨‍💻 Programming toolchains
