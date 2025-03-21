@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+A Front End Dev.
+
+
 ### 🚟 Weekly development breakdown
 
 <!--START_SECTION:waka-->
