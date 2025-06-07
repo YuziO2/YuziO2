@@ -22,7 +22,7 @@ A Front End Dev.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2025 - To: 06 June 2025
+From: 31 May 2025 - To: 07 June 2025
 
 Total Time: 5 hrs 5 mins
 
