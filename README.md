@@ -22,12 +22,13 @@ A Front End Dev.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2025 - To: 10 October 2025
+From: 04 October 2025 - To: 11 October 2025
 
-Total Time: 27 mins
+Total Time: 1 hr 2 mins
 
-Vue.js       16 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.84 %
-TypeScript   10 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.16 %
+JavaScript   34 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.22 %
+Vue.js       16 mins         ⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.07 %
+TypeScript   10 mins         ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.70 %
 ```
 
 <!--END_SECTION:waka-->
