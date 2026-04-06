@@ -36,7 +36,7 @@ Frontend engineer. I build interfaces for a living and run my own infrastructure
 
 ### 📊 GitHub stats
 
-[![Top Languages](https://github-readme-stats-yuzi0201s-projects.vercel.app/api/top-langs/?username=YuziO2&layout=compact&hide_border=true&exclude_repo=YuziO2.github.io&exclude_forked=true)](https://github.com/YuziO2)
+[![Top Languages](https://github-readme-stats-yuzi0201s-projects.vercel.app/api/top-langs/?username=YuziO2&layout=compact&hide_border=true&exclude_repo=YuziO2.github.io&exclude_forked=true&langs_count=12)](https://github.com/YuziO2)
 
   <p align="right">
       frontend to infrastructure, always curious ✦
