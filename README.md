@@ -1,6 +1,6 @@
 
 
-### Hi, I'm Yuzi 👾
+### Hi, I'm Yuzi 🐱
 
 Frontend engineer. I build interfaces for a living and run my own infrastructure at night.
 
