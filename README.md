@@ -53,15 +53,15 @@ Frontend engineer. I build interfaces for a living and run my own infrastructure
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 July 2026 - To: 19 July 2026
+From: 13 July 2026 - To: 20 July 2026
 
-Total Time: 15 hrs 3 mins
+Total Time: 16 hrs 30 mins
 
-Markdown     4 hrs 35 mins         ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.07 %
-JavaScript   3 hrs 18 mins         ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.93 %
-Vue          2 hrs 20 mins         ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.87 %
-TypeScript   1 hr 50 mins          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.70 %
-JSON         1 hr 23 mins          ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.86 %
+JavaScript   6 hrs 50 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.78 %
+Markdown     4 hrs 12 mins         ⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.49 %
+TypeScript   1 hr 41 mins          ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.84 %
+Vue          1 hr 22 mins          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.00 %
+Bash         1 hr 5 mins           ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.38 %
 ```
 
 <!--END_SECTION:waka-->
